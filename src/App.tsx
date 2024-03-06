@@ -1,6 +1,6 @@
-import React from "react";
-import "./App.css";
-import jsonData from "./CollegeBasketballTeams.json";
+import React from 'react';
+import './App.css';
+import jsonData from './CollegeBasketballTeams.json';
 
 interface TeamProps {
   school: string;
